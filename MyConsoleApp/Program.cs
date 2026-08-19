@@ -1,6 +1,9 @@
 ﻿Console.WriteLine("Hello, World from C# App! 001");
 Console.WriteLine("Hello, World from C# App! 002 ......");
 Console.WriteLine("Hello, World from C# App! 003......");
+Console.WriteLine("Hello, World from C# App! 001 ...10");
+Console.WriteLine("Hello, World from C# App! 002 ...11");
+Console.WriteLine("Hello, World from C# App! 003 ...12");
 Console.WriteLine("Hello, World from C# App! 004");
 Console.WriteLine("Hello, World from C# App! 005");
 Console.WriteLine("Hello, World from C# App! 006");
@@ -12,7 +15,7 @@ Console.WriteLine("Hello, World from C# App! 011");
 Console.WriteLine("Hello, World from C# App! 012");
 Console.WriteLine("Hello, World from C# App! 013");
 Console.WriteLine("Hello, World from C# App! 014");
-Console.WriteLine("Hello, World from C# App! 015 ......");
+Console.WriteLine("Hello, World from C# App! 015");
 Console.WriteLine("Hello, World from C# App! 016");
 Console.WriteLine("Hello, World from C# App! 017");
 Console.WriteLine("Hello, World from C# App! 018");
