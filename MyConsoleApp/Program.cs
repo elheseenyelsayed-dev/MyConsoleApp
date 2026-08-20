@@ -9,9 +9,11 @@ var appSettings = builder.Configuration
 
 Console.WriteLine($"Environment: {appSettings?.EnvironmentName}");
 Console.WriteLine($"Greeting: {appSettings?.Greeting}");
+Console.WriteLine($"Password: {appSettings?.Password}");
 
 public sealed class AppSettings
 {
+    public string Password { get; set; } = string.Empty;
     public string EnvironmentName { get; set; } = string.Empty;
     public string Greeting { get; set; } = string.Empty;
 }
